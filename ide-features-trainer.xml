@@ -1,0 +1,21 @@
+<application>
+  <component name="GroupManager">
+    <expandedByName>
+      <entry name="Tutorials" expanded="true" />
+      <entry name="Projects" expanded="true" />
+    </expandedByName>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="go" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="Actions" value="NOT_PASSED" />
+        <entry key="Goland2019.2.ExtractMethodRefactoringWithReturns" value="NOT_PASSED" />
+        <entry key="Goland2019.3.DeleteUnusedParameters" value="NOT_PASSED" />
+        <entry key="Handling errors with live and postfix templates" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>

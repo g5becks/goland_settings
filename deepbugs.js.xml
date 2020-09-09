@@ -1,0 +1,10 @@
+<application>
+  <component name="DeepBugsJS">
+    <option name="userDisabledChecks">
+      <set>
+        <option value="ID:returnType JS:EQEQEQ ID:unit" />
+        <option value="ID:unit JS:EQEQEQ ID:returnType" />
+      </set>
+    </option>
+  </component>
+</application>

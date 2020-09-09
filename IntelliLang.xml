@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSX Harmony" injector-id="js">
+      <display-name>React JSX in JS strings</display-name>
+      <place disabled="true"><![CDATA[isReactJSXLikeText()]]></place>
+    </injection>
+  </component>
+</application>
