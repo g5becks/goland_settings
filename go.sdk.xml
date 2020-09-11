@@ -4,6 +4,7 @@
       <set>
         <option value="/snap/go/6123" />
         <option value="/snap/go/6274" />
+        <option value="/snap/go/current" />
       </set>
     </sdk-path>
   </component>
