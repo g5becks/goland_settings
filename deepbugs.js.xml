@@ -2,8 +2,9 @@
   <component name="DeepBugsJS">
     <option name="userDisabledChecks">
       <set>
-        <option value="ID:returnType JS:EQEQEQ ID:unit" />
         <option value="ID:unit JS:EQEQEQ ID:returnType" />
+        <option value="ID:returnType JS:EQEQEQ ID:unit" />
+        <option value="ID:bin JS:DIV ID:env" />
       </set>
     </option>
   </component>
