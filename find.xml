@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'typerpc'" />
     <option name="defaultScopeName" value="Project 'typerpc'" />
-    <option name="localCaseSensitive" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'typerpc'" />
   </component>
 </application>
