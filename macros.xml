@@ -7,7 +7,7 @@
     </macro>
     <macro name="gofmtSave">
       <action id="Tool_External Tools_GoFumports" />
-      <action id="SaveAll" />
+      <action id="Tool_External Tools_gci" />
     </macro>
   </component>
 </application>
