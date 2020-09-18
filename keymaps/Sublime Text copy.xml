@@ -53,7 +53,7 @@
     <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="GotoSymbol" />
-  <action id="Macro.goFmtSave">
+  <action id="Macro.gofmtSave">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Macro.tsFmtFixSave">
