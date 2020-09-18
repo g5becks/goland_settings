@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".elintrc" type="PLAIN_TEXT" />
+      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping ext="ridl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
