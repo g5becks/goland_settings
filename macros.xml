@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="eslintFixSave">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="OptimizeImports" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
