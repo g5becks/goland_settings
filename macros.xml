@@ -1,13 +1,10 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="tsFmtFixSave">
+    <macro name="eslintFixSave">
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="OptimizeImports" />
+      <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />
-    </macro>
-    <macro name="gofmtSave">
-      <action id="Tool_External Tools_GoFumports" />
-      <action id="Tool_External Tools_gci" />
     </macro>
   </component>
 </application>

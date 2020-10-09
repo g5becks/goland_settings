@@ -1,10 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ng" type="HTML" />
       <mapping pattern=".elintrc" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping ext="ridl" type="PLAIN_TEXT" />
-      <removed_mapping ext="varlink" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="pom" type="XML" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
