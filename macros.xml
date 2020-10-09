@@ -6,5 +6,9 @@
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />
     </macro>
+    <macro name="goFmtSave">
+      <action id="Tool_External Tools_GoFumports" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
