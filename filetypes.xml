@@ -4,6 +4,7 @@
       <mapping pattern=".elintrc" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping ext="ridl" type="PLAIN_TEXT" />
+      <removed_mapping ext="varlink" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

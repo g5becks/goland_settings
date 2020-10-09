@@ -1,0 +1,22 @@
+<filetype binary="false" description="varlink" name="varlink">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="LINE_COMMENT_AT_START" value="true" />
+    </options>
+    <keywords keywords="error;interface;method;type" ignore_case="false" />
+    <keywords2 keywords="bool;float;int;object;string" />
+    <keywords3 keywords="();:;?;[]" />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="varlink" />
+  </extensionMap>
+</filetype>
