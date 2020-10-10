@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tmpl" type="Go Template" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".elintrc" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
