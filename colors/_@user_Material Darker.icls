@@ -4,7 +4,7 @@
     <property name="created">2019-06-14T17:15:07</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2020-10-15T14:33:06</property>
+    <property name="modified">2020-10-15T14:59:43</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -682,6 +682,12 @@
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="GO_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c7773e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_METHOD_RECEIVER">
