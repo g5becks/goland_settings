@@ -1,0 +1,17 @@
+<application>
+  <component name="LSPState">
+    <option name="extToServ">
+      <map>
+        <entry key="nim">
+          <value>
+            <array>
+              <option value="exe" />
+              <option value="nim" />
+              <option value="$USER_HOME$/.nimble/bin/nimlsp" />
+            </array>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
